@@ -1,0 +1,48 @@
+    @font-face {
+        font-family: 'BB';
+        src: url("../fonts/BNaznnBd.ttf") format('truetype');
+        font-weight: bold;
+        font-size: 24px;
+    }
+    @font-face {
+        font-family: 'b nazanin outline';
+        src: url("../fonts/B Nazanin Outline_0.ttf") format('truetype');
+        font-weight: bold;
+        font-size: 24px;
+    }
+    @font-face {
+        font-family: 'BBC';
+        src: url("../fonts/B Titr Bold_0.ttf") format('truetype');
+        font-weight: bold;
+    }
+    @font-face {
+        font-family: 'mitra';
+        src: url("../fonts/Far_Mitra.ttf") format('truetype');
+        font-weight: bold;
+    }
+    @font-face {
+        font-family: 'Ashura';
+        src: url("../fonts/PERSIAN-ASHOURA.ttf") format('truetype');
+        font-weight: bold;
+    }
+    @font-face {
+        font-family: 'b yekan';
+        src: url("../fonts/Yekan.ttf") format('truetype');
+        font-weight: bold;
+    }
+    font-face {
+        font-family: 'nilufar';
+        src: url("../fonts/BLOTUSB_0.ttf") format('truetype');
+        font-weight: bold;
+    }
+    @font-face {
+        font-family: 'nasim';
+        src:url("../fonts/nasim.ttf") format('truetype');
+        font-weight: bold;
+        font-size: 80px;
+    }
+    @font-face {
+        font-family: 'Nastaliq';
+        src:url("../fonts/IranNastaliq.ttf") format('truetype');
+
+    }

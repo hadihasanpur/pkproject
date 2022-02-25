@@ -1,0 +1,7 @@
+INSERT INTO images2 (code, title, content1, content2, keyword1, keyword2, disable)
+SELECT code, title, content1, content2, keyword1, keyword2, disable FROM news
+ WHERE (images2.code = news.code);
+ ///////////////////////////////////////////////////////////////////////////
+ INSERT INTO images2 (code, title, img1)
+ SELECT news.code,news.title,images.img1 FROM `news`,`images` WHERE(news.code = images.code)
+ This query worked for me!
